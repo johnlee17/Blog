@@ -13,7 +13,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # require                       # 必需
-  name = "JohnLee"
+  name = "John Lee"
 
 [sitemap]                 # require                       # 必需
   changefreq = "weekly"
@@ -48,8 +48,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   # site info (option)                                    # 站点信息（可选）
   logoTitle = "JohnLee的档案"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["JohnLee", "博客", "前端"]
-  description = "JohnLee的档案"
+  keywords = ["John Lee", "博客", "前端"]
+  description = "John Lee的档案"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目
   archive-paginate = 3
@@ -96,7 +96,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     #d-facebook = "http://localhost:1313"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"
-    g-github = "https://johnlee17.github.com/"
+    g-github = "https://github.com/johnlee17"
     #h-weibo = "http://localhost:1313"
     #i-zhihu = "http://localhost:1313"
     #j-douban = "http://localhost:1313"
